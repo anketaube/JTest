@@ -1,0 +1,7 @@
+lxml
+requests
+pandas
+xlrd
+xlsxwriter
+SPARQLWrapper
+sickle
